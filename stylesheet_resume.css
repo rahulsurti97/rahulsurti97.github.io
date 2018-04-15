@@ -1,4 +1,5 @@
 body {
+	background-color: gray;
 	font-family: "Helvetica Neue";
 }
 
@@ -120,7 +121,7 @@ li {
 
 i {
 	color: black;
-	width: 16px;
+	width: 13px;
 }
 
 .left-wrapper {
@@ -146,7 +147,7 @@ i {
 }
 
 .gsi {
-	color: #fe7900;
+	color: #fdb745;
 	font-style: normal;
 }
 
