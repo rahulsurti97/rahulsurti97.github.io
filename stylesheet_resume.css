@@ -146,6 +146,16 @@ i {
 	/*background-color: blue;*/
 }
 
+.research {
+    color: #f23350;
+    font-style: normal;
+}
+
+.microsoft {
+    color: #70b000;
+    font-style: normal;
+}
+
 .gsi {
 	color: #fdb745;
 	font-style: normal;
