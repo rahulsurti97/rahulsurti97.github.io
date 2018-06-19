@@ -11,6 +11,7 @@ a {
 b {
     font-weight: 400;
 }
+
 .container {
 	border-left: 1px solid gray;
 }
@@ -22,6 +23,15 @@ b {
 	background-color: white;
 	overflow: hidden;
 
+}
+
+#followMe i {
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+#followMe .item {
+    margin-left: 11px;
 }
 
 #name .title {
