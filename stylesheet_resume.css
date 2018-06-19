@@ -5,8 +5,12 @@ body {
 
 a {
 	color:gray;
+    /*text-decoration:none;*/
 }
 
+b {
+    font-weight: 400;
+}
 .container {
 	border-left: 1px solid gray;
 }
@@ -162,7 +166,8 @@ i {
 }
 
 .yahoo {
- 	color: #7B0099;
+    color: #7B0099;
+ 	color: #000000;
   	font-style: normal;
 }
 
