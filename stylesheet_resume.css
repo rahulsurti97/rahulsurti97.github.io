@@ -22,12 +22,12 @@ b {
 	height: 11in;
 	background-color: white;
 	overflow: hidden;
-
 }
 
 #followMe i {
     margin-top: 10px;
-    margin-left: 16px;
+    margin-left: 4px;
+    margin-right: 0px;
 }
 
 #followMe .item {
