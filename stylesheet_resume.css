@@ -24,12 +24,6 @@ b {
 	overflow: hidden;
 }
 
-#followMe i {
-    margin-top: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
 #followMe .item {
     margin-left: 11px;
 }
@@ -134,8 +128,13 @@ li {
 }
 
 i {
-	color: black;
+	color: gray;
 	width: 18px;
+    margin-top: 7px;
+}
+
+.fa-python {
+    padding-left: 2px;
 }
 
 
