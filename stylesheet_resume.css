@@ -80,7 +80,7 @@ div .item:nth-child(1) {
 	font-weight: 200;
 }
 
-#name .detail, #skills .detail {
+#name .detail {
 	padding-left: 0px;
 }
 
@@ -96,7 +96,6 @@ div .item:nth-child(1) {
 
 .secondary {
 	font-size: 13px;
-	/*font-style: italic;*/
 	font-weight: 200;
 }
 
@@ -107,7 +106,10 @@ div .item:nth-child(1) {
 	float: right;
 	margin-top: 3px;
 	font-weight: 200;
-	/*background-color: orange;*/
+}
+
+#experience .date {
+	margin-top: -15px;
 }
 
 ul {
@@ -161,47 +163,47 @@ i {
 }
 
 .research {
-    color: #f23350;
+    /* color: #f23350; */
     font-style: normal;
 }
 
 .microsoft {
-    color: #70b000;
+    /* color: #70b000; */
     font-style: normal;
 }
 
 .gsi {
-	color: #fdb745;
+	/* color: #fdb745; */
 	font-style: normal;
 }
 
 .yahoo {
-    color: #7B0099;
- 	color: #000000;
+    /* color: #7B0099; */
+ 	/* color: #000000; */
   	font-style: normal;
 }
 
 .cap1 {
-	color: #004879;
+	/* color: #004879; */
 	font-style: normal;
 }
 
 .allstate {
-	color: #0076B8;
+	/* color: #0076B8; */
 	font-style: normal;
 }
 
 .redc {
-	color: #D22F2F;
+	/* color: #D22F2F; */
 	font-style: normal;
 }
 
 .first {
-	color: #0066b3;
+	/* color: #0066b3; */
 	font-style: normal;
 }
 
 .eoh {
-	color: #052b86;
+	/* color: #052b86; */
 	font-style: normal;
 }
