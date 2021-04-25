@@ -112,6 +112,10 @@ div .item:nth-child(1) {
 	margin-top: -15px;
 }
 
+#involvement .date {
+	margin-top: -15px;
+}
+
 ul {
 	margin: 2px auto;
 	padding-left: 0px;
